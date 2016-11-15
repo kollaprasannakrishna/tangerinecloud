@@ -17,4 +17,12 @@
     <script src="assets/js/jquery.ui.touch-punch.min.js"></script>
 
     <!-- ====Main JavaScript==== -->
-    <script src="assets/js/main.js"></script>    
+    <script src="assets/js/main.js"></script>
+ <script type='text/javascript'>
+     (function() { var zanalytics_ = document.createElement('script');
+         zanalytics_.type = 'text/javascript';
+         zanalytics_.async = false;
+         zanalytics_.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dynamic.ziftsolutions.com/analytics/ff80818157dfec4d0158016f43ef31b0.js';
+         document.getElementsByTagName('script')[0].parentNode.appendChild(zanalytics_);
+     })();
+ </script>

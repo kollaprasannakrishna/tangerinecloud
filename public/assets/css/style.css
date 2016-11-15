@@ -1480,7 +1480,7 @@ a.btn-custom-reverse.btn-lg {
 \*------------------------------------*/
 /* 20-1 ABOUT DESCRIPTION */
 .about-description {
-    padding: 100px 0;
+    padding: 10px 0;
 }
 .about-desc-content {
     margin-top: 30px;
@@ -2636,4 +2636,7 @@ a.comment-reply:hover {
 }
 .details-sec{
     margin-top: 20px;
+}
+.title-about-clr{
+    color: #FF6C3A;
 }

@@ -15,7 +15,7 @@
 	
 	
 	
-        @include('main.testimonials')
+        {{--@include('main.testimonials')
 	
 	    {{--@include('main.pricingArea')--}}
         @include('main.subscribe')

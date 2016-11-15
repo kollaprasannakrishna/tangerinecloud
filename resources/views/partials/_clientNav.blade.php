@@ -15,7 +15,7 @@
                         <li><a href="{{route('datacenter')}}">IAAS</a></li>
                         <li><a href="blog.html">PAAS</a></li>
                         <li><a href="faq.html">SAAS</a></li>
-                        <li><a href="affiliate.html">Affiliates</a></li>
+                        <li><a href="https://acm.avnetcloudsolutions.com/catalog?accountName=Veritri#!" target="_blank">Cloud Market Place</a></li>
                         <li><a href="login.html">Submit a Ticket</a></li>
                         <li><a href="login.html">Client Area</a></li>
                     </ul>

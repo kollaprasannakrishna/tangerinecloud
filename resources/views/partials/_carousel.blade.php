@@ -79,7 +79,7 @@
             </div>
             <!-- Banner Item End -->
             <!-- Banner Item Start -->
-            <div class="banner-item" data-bg-src="assets/img/header-slider-bg/slider-bg-2.jpg">
+            <div class="banner-item" data-bg-src="assets/img/officeInCloud/officeCloudBanner.png">
                 <div class="vc-parent">
                     <div class="vc-child">
                         <!-- Banner Item Content Start -->

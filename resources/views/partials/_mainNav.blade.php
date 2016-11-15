@@ -21,8 +21,8 @@
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-server fa-fw"></i>Cloud Computing<span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="{{route('aws-cloud')}}">Amazon Web Services (AWS)</a></li>
                                 <li><a href="{{route('ibm-cloud')}}">IBM Cloud</a></li>
+                                <li><a href="{{route('aws-cloud')}}">Amazon Web Services (AWS)</a></li>
                                 <li><a href="{{route('dedicatedHosting')}}">Rackspace Managed Hosting</a></li>
                                 <li><a href="{{route('dedicatedHosting')}}">Oracle Cloud</a></li>
                             </ul>

@@ -1,4 +1,4 @@
-<div class="section">
+<div class="section" id="iaas">
     <div class="col-lg-12 deatils-css">
         <h3>Infrastructure as a Service</h3>
     </div>
@@ -38,35 +38,6 @@
 <div class="section">
     <div class="container">
         <div class="row">
-
-            <div class="col-lg-12">
-                <div class="col-lg-6">
-                    <!-- Post YouTube Video Start -->
-                    <div class="blog-page-post-video embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4xWaIbXfFUQ"></iframe>
-                    </div>
-                    <!-- Post YouTube Video End -->
-                </div>
-                <div class="col-lg-6">
-                    <h4>IBM Bluemix</h4>
-                    <p>IBM Bluemix is a cloud platform to help developers build and run modern apps and services. Bluemix provides developers with instant access to the compute and services they need to launch quickly, iterate continuously and scale with success. With services across mobile, IoT, Watson and more, IBM Bluemix is an ideal platform to power the next wave of apps that thrive on data.</p>
-                    <ul>
-                        <li>Build and run apps</li>
-                        <li>Access Data and Applications</li>
-                        <li>Get flexible hybrid cloud</li>
-                    </ul>
-                </div>
-
-            </div>
-
-        </div>
-
-
-        <hr/>
-
-
-        <div class="row">
-
             <div class="col-lg-12">
                 <div class="col-lg-6">
                     <!-- Post YouTube Video Start -->
@@ -86,27 +57,14 @@
                         <li>Unify essential services</li>
                     </ul>
                 </div>
-
             </div>
-
         </div>
-
-
         <hr/>
-
-
         <div class="row">
-
             <div class="col-lg-12">
+
                 <div class="col-lg-6">
-                    <!-- Post YouTube Video Start -->
-                    <div class="blog-page-post-video embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/QKtz26GabuE"></iframe>
-                    </div>
-                    <!-- Post YouTube Video End -->
-                </div>
-                <div class="col-lg-6">
-                    <h4>IBM MobileFirst Foundation</h4>
+                    <h4>IBM UrbanCode Deploy</h4>
                     <p>UrbanCode Deploy is an application release automation solution that combines robust visibility, traceability, and auditing capabilities into one optimized package. Seamlessly deploy to distributed data centers, clouds and virtualized environments. Scale up to enterpirse-class deployments handling thousands of servers.</p>
                     <ul>
                         <li>Speed with quality</li>
@@ -115,23 +73,26 @@
                         <li>Manage complexity</li>
                     </ul>
                 </div>
-
+                <div class="col-lg-6">
+                    <!-- Post YouTube Video Start -->
+                    <div class="blog-page-post-video embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/QKtz26GabuE"></iframe>
+                    </div>
+                    <!-- Post YouTube Video End -->
+                </div>
             </div>
-
         </div>
-
     </div>
     </div>
 </div>
-<div class="section">
+<div class="section" id="paas">
     <div class="col-lg-12 deatils-css">
         <h3>Platform as a Service</h3>
     </div>
 </div>
 <div class="section">
     <div class="container">
-        <div class="row">
-
+        {{--<div class="row">
             <div class="col-lg-12">
                 <div class="col-lg-6">
                     <h4>IBM SoftLayer Virtual Servers</h4>
@@ -153,9 +114,30 @@
                 </div>
             </div>
         </div>
-        <hr/>
+        <hr/>--}}
         <div class="row">
 
+            <div class="col-lg-12">
+                <div class="col-lg-6">
+                    <!-- Post YouTube Video Start -->
+                    <div class="blog-page-post-video embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4xWaIbXfFUQ"></iframe>
+                    </div>
+                    <!-- Post YouTube Video End -->
+                </div>
+                <div class="col-lg-6">
+                    <h4>IBM Bluemix</h4>
+                    <p>IBM Bluemix is a cloud platform to help developers build and run modern apps and services. Bluemix provides developers with instant access to the compute and services they need to launch quickly, iterate continuously and scale with success. With services across mobile, IoT, Watson and more, IBM Bluemix is an ideal platform to power the next wave of apps that thrive on data.</p>
+                    <ul>
+                        <li>Build and run apps</li>
+                        <li>Access Data and Applications</li>
+                        <li>Get flexible hybrid cloud</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
             <div class="col-lg-12">
                 <div class="col-lg-6">
                     <h4>IBM API Connect</h4>
@@ -177,6 +159,5 @@
                 </div>
             </div>
         </div>
-
     </div>
 </div>
