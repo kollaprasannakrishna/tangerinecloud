@@ -49,11 +49,11 @@
                             </ul>
                         </li>
 
-                        {{--<li><a href="contact.html"><i class="fa fa-envelope-o fa-fw"></i>Contact</a></li>--}}
+                        <li><a href="{{route('contact')}}"><i class="fa fa-envelope-o fa-fw"></i>Contact</a></li>
                     </ul>
 					<!-- Secondary Menu Links End -->
                     <div class="registration-links">
-                        <a href="login.html" class="login btn btn-custom-reverse" role="button"><i class="fa fa-fw fa-user"></i> Login</a>
+                        <a href="{{route('login')}}" class="login btn btn-custom-reverse" role="button"><i class="fa fa-fw fa-user"></i> Login</a>
                     </div>
                 </div>
             </div>

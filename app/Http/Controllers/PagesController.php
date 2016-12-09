@@ -44,5 +44,8 @@ class PagesController extends Controller
     public function getBlog(){
         return view('pages.blog');
     }
+    public function getContact(){
+        return view('pages.contact');
+    }
 
 }

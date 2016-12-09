@@ -68,3 +68,8 @@ Route::get('blog',[
     'uses'=>'PagesController@getBlog',
     'as'=>'blog'
 ]);
+
+Route::get('contact',[
+    'uses'=>'PagesController@getContact',
+    'as'=>'contact'
+]);

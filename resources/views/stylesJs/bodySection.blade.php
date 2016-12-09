@@ -18,6 +18,9 @@
 
     <!-- ====Main JavaScript==== -->
     <script src="assets/js/main.js"></script>
+
+ <!-- ====Google MAPS API JavaScript==== -->
+ <script src="https://maps.googleapis.com/maps/api/js"></script>
  <script type='text/javascript'>
      (function() { var zanalytics_ = document.createElement('script');
          zanalytics_.type = 'text/javascript';
